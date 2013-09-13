@@ -1,2 +1,3 @@
-WindowsのSystemLocaleをja-JPに変更するPowerShell用サンプルです
+ChangeLocale
 ============
+WindowsのSystemLocaleをja-JPに変更するPowerShell用サンプルです
